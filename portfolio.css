@@ -124,7 +124,8 @@ section p{
 	justify-content: center;
 	list-style-type: none;
 	padding: 0;
-	margin-right: 20px;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .social-links a{
